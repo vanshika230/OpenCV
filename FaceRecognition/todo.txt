@@ -1,2 +1,0 @@
-1. video read
-2. Face data collect
